@@ -18,10 +18,10 @@ A WIP boiler for JWT authentication with Django(REST) and Vue. I used Vuetify fo
 
 # ToDo
 
-- Make Django Backend
-- Setup REST API
-  - use allauth for registration
-  - use simple jwt for authentication
-  - use dj-rest-auth for login
+- Make Django Backend &#x2611;
+- Setup REST API &#x2611;
+  - use allauth for registration &#x2611;
+  - use simple jwt for authentication &#x2611;
+  - use dj-rest-auth for login &#x2611;
 - Make authentication endpoints in frontend
 - Setup Vuex
