@@ -6,6 +6,7 @@
   </a>
 </p>
 
+# This is public feel free to help me improve it.
 &nbsp;
 
 [![Django](https://img.shields.io/badge/Backend-Django-blue)](https://www.djangoproject.com/)
@@ -23,5 +24,7 @@ A WIP boiler for JWT authentication with Django(REST) and Vue. I used Vuetify fo
   - use allauth for registration &#x2611;
   - use simple jwt for authentication &#x2611;
   - use dj-rest-auth for login &#x2611;
+  - extend user model (email signin)
+  - setup user profile model
 - Make authentication endpoints in frontend
 - Setup Vuex
