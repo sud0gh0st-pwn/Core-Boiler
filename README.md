@@ -28,3 +28,8 @@ A WIP boiler for JWT authentication with Django(REST) and Vue. I used Vuetify fo
   - setup user profile model
 - Make authentication endpoints in frontend
 - Setup Vuex
+
+### Referances 
+<a href="https://www.bezkoder.com/vuex-typescript-jwt-auth/">
+    Using now - (Bezkoder)
+</a>
