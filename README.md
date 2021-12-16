@@ -1,7 +1,7 @@
-# Vue 3 + Typescript + Vite + Vuetify + Vue Router
+# Django + REST + JWT + Vue 3 + Typescript + Vite + Vuetify + Vue Router
 
 <p align="center">
-  <a href="sud0gh0st.nft">
+  <a href="https://github.com/sud0gh0st-pwn">
     Author - sud0gh0st-pwn
   </a>
 </p>
